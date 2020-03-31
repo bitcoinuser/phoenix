@@ -109,9 +109,9 @@
   <string name="receive_swap_in_disclaimer_message"><![CDATA[
   A standard bitcoin address will be displayed next.
   <br /><br />
-  Funds sent to this address will be shown on your wallet after one confirmation.
+  Os bitcoins enviados para este endereço serão mostrados na sua carteira após uma confirmação.
   <br /><br />
-  A <b>%1$s%%</b> fee will be applied.
+  A <b>%1$s%%</b> taxa será cobrada.
   ]]></string>
 
   <!-- //////////////// receive with open channel //////////////// -->
