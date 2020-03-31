@@ -74,25 +74,25 @@
 
   <!-- //////////////// payment holder //////////////// -->
 
-  <string name="paymentholder_sending">Sending…</string>
-  <string name="paymentholder_processing">Processing…</string>
-  <string name="paymentholder_waiting">Waiting…</string>
-  <string name="paymentholder_failed">Failed</string>
+  <string name="paymentholder_sending">Enviando…</string>
+  <string name="paymentholder_processing">Processando…</string>
+  <string name="paymentholder_waiting">Aguardando…</string>
+  <string name="paymentholder_failed">Falhou</string>
   <string name="paymentholder_sent_prefix">-</string>
   <string name="paymentholder_received_prefix">+</string>
-  <string name="paymentholder_no_desc">No description</string>
-  <string name="paymentholder_closing_desc">Closing #%1$s</string>
+  <string name="paymentholder_no_desc">Sem descrição</string>
+  <string name="paymentholder_closing_desc">Fechando #%1$s</string>
 
   <!-- //////////////// receive //////////////// -->
 
-  <string name="receive_edit_title">Edit my invoice</string>
-  <string name="receive_edit_subtitle">You can change the requested amount and the description of the invoice.</string>
-  <string name="receive_in_progress_message">Please hold…</string>
-  <string name="receive_error_message">There was an error when generating the invoice…\n\nPlease try again.</string>
-  <string name="receive_amount_label">Amount (optional)</string>
-  <string name="receive_desc_label">Payment description (optional):</string>
-  <string name="receive_default_desc">Phoenix payment</string>
-  <string name="receive_generate_button">Create invoice</string>
+  <string name="receive_edit_title">Editar cobrança</string>
+  <string name="receive_edit_subtitle">Você pode alterar o valor solicitado e a descrição da cobrança.</string>
+  <string name="receive_in_progress_message">Favor aguardar…</string>
+  <string name="receive_error_message">Ocorreu um erro ao gerar a cobrança…\n\nTente novamente.</string>
+  <string name="receive_amount_label">Quantidade (opcional)</string>
+  <string name="receive_desc_label">Descrição do pagamento (opcional):</string>
+  <string name="receive_default_desc">Pagamento Phoenix</string>
+  <string name="receive_generate_button">Gerar cobrança</string>
 
   <string name="receive_share_subject">Payment requested</string>
   <string name="receive_share_title">Share this payment request with…</string>
