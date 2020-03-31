@@ -145,8 +145,8 @@
   <string name="send_swap_error">Swap has failed. Please try again.</string>
   <string name="send_swap_required_desc">This is a bitcoin address, the payment will be a swap.</string>
   <string name="send_swap_required_button">Request a swap</string>
-  <string name="send_swap_complete_recap_amount">Amount</string>
-  <string name="send_swap_complete_recap_fee">Taxa do Minerador</string>
+  <string name="send_swap_complete_recap_amount">Valor</string>
+  <string name="send_swap_complete_recap_fee">Taxa de Mineração</string>
   <string name="send_swap_complete_recap_total">Total</string>
   <string name="send_swap_complete_cannot_afford">Total exceeds your balance.\n\nLower the amount, or try again later when fees have decreased.</string>
 
@@ -398,7 +398,7 @@
   <string name="seedsec_disable_bio_prompt_negative">Cancelar</string>
 
   <string name="seedsec_bio_prompt_title">Enable biometric lock</string>
-  <string name="seedsec_bio_prompt_negative">Cancel</string>
+  <string name="seedsec_bio_prompt_negative">Cancelar</string>
 
   <!-- //////////////// ln url login //////////////// -->
 
@@ -408,7 +408,7 @@
 
   <!-- //////////////// ln url pay //////////////// -->
 
-  <string name="lnurl_pay_wait" translatable="false">Retrieving payment details…</string>
+  <string name="lnurl_pay_wait" translatable="false">Recuperando detalhes de pagamento…</string>
   <string name="lnurl_pay_error_remote" translatable="false">Could not get a valid invoice from %1$s.\n\nYou may want to try again later.</string>
   <string name="lnurl_pay_error_remote_code" translatable="false">Could not get a valid invoice from %1$s (code %2$s).\n\nYou may want to try again later.</string>
   <string name="lnurl_pay_error_missing_callback" translatable="false">There was an error when handling this invoice. Please try again later.</string>
@@ -423,11 +423,11 @@
   <string name="lnurl_withdraw_success">Please hold while %1$s is sending funds.\n\nKeep the app online.</string>
   <string name="lnurl_withdraw_error_internal">Could not process this withdrawal request. Please try again.</string>
   <string name="lnurl_withdraw_error_invalid">This withdrawal request is invalid. Please try again.</string>
-  <string name="lnurl_withdraw_error_amount">Amount is invalid.</string>
+  <string name="lnurl_withdraw_error_amount">A quantia é inválida.</string>
   <string name="lnurl_withdraw_error_amount_min">Amount must be at least %1$s.</string>
   <string name="lnurl_withdraw_error_amount_max">Amount cannot exceed %1$s.</string>
   <string name="lnurl_withdraw_error_remote">%1$s responded with an error: %2$s.\n\nTry again later, or contact their support.</string>
-  <string name="lnurl_withdraw_error_remote_invalid_response">Invalid data</string>
+  <string name="lnurl_withdraw_error_remote_invalid_response">Dado inválido</string>
 
   <!-- //////////////// display preferences //////////////// -->
 
@@ -438,9 +438,9 @@
 
   <!-- //////////////// electrum server //////////////// -->
 
-  <string name="electrum_title">Electrum server</string>
+  <string name="electrum_title">Servidor Electrum</string>
   <string name="electrum_subtitle">By default Phoenix connects to random electrum servers in order to access the Bitcoin blockchain. You can also choose to connect to your own Electrum server.</string>
-  <string name="electrum_change_button">Set server…</string>
+  <string name="electrum_change_button">Definir servidor…</string>
 
   <string name="electrum_block_height_label">Block height</string>
   <string name="electrum_tip_label">Tip timestamp</string>
@@ -449,7 +449,7 @@
   <string name="electrum_xpub_value">%1$s\n\nPath: %2$s</string>
   <string name="electrum_fee_rate">%1$s sat/byte</string>
   <string name="electrum_connection_label">Server</string>
-  <string name="electrum_connecting">Establishing connection…</string>
+  <string name="electrum_connecting">Estabelecendo conexão…</string>
   <string name="electrum_connecting_to_custom"><![CDATA[Establishing connection with <b>%1$s…</b>]]></string>
   <string name="electrum_connected"><![CDATA[Connected to: <b>%1$s</b>]]></string>
 
