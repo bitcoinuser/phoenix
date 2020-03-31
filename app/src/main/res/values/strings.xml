@@ -232,7 +232,7 @@
     <br/><br/>
     Está função não é &quot;um botão mágico que resolve tudo&quot;; está aqui como uma medida de segurança e <b>só deve ser usada em casos extremos</b>. Por exemplo, se seu parceiro (ACINQ) desaparecer permanentemente, impedindo que você gaste seu dinheiro. Em todos os outros casos, <b>se você tiver problemas com a Phoenix, entre em contato com o suporte</b>.
     <br/><br/>
-    Force closing channels will cost you money (to cover the on-chain fees) and will cause your funds to be locked for days. <b>Do not uninstall the app until your channels are fully closed or you will lose money.</b>
+    Forçar fechamento de canais irá lhe custar dinheiro (para cobrir as taxas on-chain) além de fazer com que seus fundos sejam bloqueados por dias. <b>Não desinstale o aplicativo até que seus canais estejam totalmente fechados ou você perderá dinheiro.</b>
     <br/><br/>
     Funds will eventually be sent to: %1$s
     <br/><br/>
