@@ -223,14 +223,14 @@
   <string name="closechannels_mutual_instructions"><![CDATA[
     Use esta página para esvaziar sua carteira enviando o saldo para um endereço Bitcoin.
   ]]></string>
-  <string name="closechannels_mutual_input_instructions">Funds can be sent to a Bitcoin wallet. Make sure that the address is correct before sending.</string>
+  <string name="closechannels_mutual_input_instructions">Os valores podem ser enviados para uma carteira Bitcoin. Verifique se o endereço está correto antes de enviar.</string>
   <string name="closechannels_mutual_input_hint">Insira um endereço Bitcoin</string>
   <string name="closechannels_mutual_button">Esvaziar minha carteira</string>
   <string name="closechannels_force_title">Forçar fechamento</string>
   <string name="closechannels_force_instructions"><![CDATA[
-    Force close allows you to unilaterally close your channels.
+    Fechamento forçado permite fechar unilateralmente seus canais.
     <br/><br/>
-    This feature is not a &quot;fix everything magic button&quot;; it is here as a safety measure and <b>should only be used in extreme scenarii</b>. For example, if your peer (ACINQ) disappears permanently, preventing you from spending your money. In all other cases, <b>if you experience issues with Phoenix you should contact support</b>.
+    Está função não é &quot;um botão mágico que resolve tudo&quot;; está aqui como uma medida de segurança e <b>só deve ser usada em casos extremos</b>. Por exemplo, se seu parceiro (ACINQ) desaparecer permanentemente, impedindo que você gaste seu dinheiro. Em todos os outros casos, <b>se você tiver problemas com a Phoenix, entre em contato com o suporte</b>.
     <br/><br/>
     Force closing channels will cost you money (to cover the on-chain fees) and will cause your funds to be locked for days. <b>Do not uninstall the app until your channels are fully closed or you will lose money.</b>
     <br/><br/>
