@@ -162,14 +162,14 @@
   <string name="scan_error_invalid_chain">Esta cobrança não usa o mesmo blockchain da sua carteira.</string>
   <string name="scan_error_lnurl_unsupported">Esta LNURL não é suportada ainda!</string>
 
-  <string name="scan_amountless_legacy_title">Warning</string>
+  <string name="scan_amountless_legacy_title">Advertência</string>
   <string name="scan_amountless_legacy_message"><![CDATA[
-    This invoice doesn\'t include an amount. This may be dangerous: malicious nodes may be able to steal your payment. To be safe, you should <b>ask the payee to specify an amount</b> in the payment request.
+    Esta cobrança não inclui um valor. Isso pode ser perigoso: servidores maliciosos podem roubar seu pagamento. Para estar seguro, você deve <b>solicitar ao recebedor que específique um valor</b> na cobrança.
     <br /><br />
-    Are you sure you want to pay this invoice?
+    Tem certeza de que deseja pagar esta cobrança?
   ]]></string>
-  <string name="scan_amountless_legacy_confirm_button">Confirm</string>
-  <string name="scan_amountless_legacy_cancel_button">Cancel</string>
+  <string name="scan_amountless_legacy_confirm_button">Confirmar</string>
+  <string name="scan_amountless_legacy_cancel_button">Cancelar</string>
 
   <!-- //////////////// utilities strings //////////////// -->
 
@@ -197,11 +197,11 @@
   <string name="settings_security_title">Security</string>
   <string name="settings_display_seed">Recovery phrase</string>
   <string name="settings_seed_security">App access settings</string>
-  <string name="settings_advanced_title">Avancçado</string>
-  <string name="settings_fees">Fees Settings</string>
-  <string name="settings_list_channels">Channels list</string>
+  <string name="settings_advanced_title">Avançado</string>
+  <string name="settings_fees">Configurações de taxas</string>
+  <string name="settings_list_channels">Lista de canais</string>
   <string name="settings_logs">Logs</string>
-  <string name="settings_electrum">Electrum server</string>
+  <string name="settings_electrum">Servidor Electrum</string>
   <string name="settings_mutual_close">Fechar todos os canais</string>
   <string name="settings_force_close">Zona de perigo</string>
 
