@@ -296,15 +296,15 @@
   <string name="inappnotif_set_up_pin">Sua carteira não está protegida.</string>
   <string name="inappnotif_set_up_pin_action">Insira um PIN</string>
   <string name="inappnotif_mnemonics_never_seen">Obrigado por usar a Phoenix. Você já fez o backup da carteira?</string>
-  <string name="inappnotif_mnemonics_never_seen_action">Backup my wallet</string>
+  <string name="inappnotif_mnemonics_never_seen_action">Fazer backup da carteira</string>
   <string name="inappnotif_background_worker_cannot_run">Phoenix needs to be able to run in background from time to time. Make sure your device does not aggressively kill this app for battery savings.</string>
-  <string name="inappnotif_upgrade">An update for this app is available.</string>
-  <string name="inappnotif_upgrade_critical">A critical update is available. The wallet may malfunction if not updated.</string>
+  <string name="inappnotif_upgrade">Uma atualização para este aplicativo está disponível.</string>
+  <string name="inappnotif_upgrade_critical">Uma atualização crítica está disponível. A carteira pode apresentar mau funcionamento se não for atualizada.</string>
 
   <!-- //////////////// display seed //////////////// -->
 
   <string name="displayseed_title">Wallet recovery phrase</string>
-  <string name="displayseed_authenticate_button">Display seed</string>
+  <string name="displayseed_authenticate_button">Mostrar seed</string>
   <string name="displayseed_loading">Unlocking seed…</string>
   <string name="displayseed_error">Seed could not be read. Please try again.\n\nReason: %1$s</string>
   <string name="displayseed_instructions"><![CDATA[
@@ -315,55 +315,55 @@
   ]]></string>
   <string name="displayseed_derivation_path">BIP39 seed with standard BIP84 derivation path</string>
   <string name="displayseed_words_td"><![CDATA[<td><font color="rgba(100,100,100,.3)"><small>#%1$d</small></font> <b>%2$s</b></td>]]></string>
-  <string name="displayseed_has_saved_seed_checkbox">I have made a backup of my seed</string>
-  <string name="displayseed_has_saved_seed_button">Confirm</string>
+  <string name="displayseed_has_saved_seed_checkbox">Eu fiz o backup da minha seed</string>
+  <string name="displayseed_has_saved_seed_button">Confirmar</string>
 
   <!-- //////////////// logs settings //////////////// -->
 
-  <string name="logs_title">Application logs</string>
+  <string name="logs_title">Logs do aplicativo</string>
   <string name="logs_subtitle">You can extract and share the application logs from this page.</string>
-  <string name="logs_view_button">View logs…</string>
-  <string name="logs_view_with">View logs with…</string>
-  <string name="logs_share_button">Share logs…</string>
-  <string name="logs_share_subject">Phoenix App logs</string>
-  <string name="logs_share_title">Share Phoenix logs…</string>
+  <string name="logs_view_button">Ver logs…</string>
+  <string name="logs_view_with">Ver logs com…</string>
+  <string name="logs_share_button">Compartilhar logs…</string>
+  <string name="logs_share_subject">Logs do aplicativo Phoenix</string>
+  <string name="logs_share_title">Compartilhar logs da Phoenix…</string>
 
   <!-- //////////////// payment details //////////////// -->
 
-  <string name="paymentdetails_loading">Retrieving payment details…</string>
+  <string name="paymentdetails_loading">Recuperando detalhes do pagamento…</string>
   <string name="paymentdetails_error">There was an error when retrieving the details for this payment.\n\nPlease try again.</string>
 
   <string name="paymentdetails_status_sent_successful"><![CDATA[<b>Sent</b> %1$s]]></string>
   <string name="paymentdetails_status_sent_pending"><![CDATA[<b>Pending…</b>]]></string>
   <string name="paymentdetails_status_sent_failed"><![CDATA[Payment <b>failed</b>.<br />No money has been sent.]]></string>
 
-  <string name="paymentdetails_status_received_pending">Payment has not been received yet.</string>
+  <string name="paymentdetails_status_received_pending">O pagamento ainda não foi recebido.</string>
   <string name="paymentdetails_status_received_successful"><![CDATA[<b>Received</b> %1$s]]></string>
 
   <string name="paymentdetails_desc_label">Desc.</string>
-  <string name="paymentdetails_destination_label">Sent to</string>
-  <string name="paymentdetails_fees_label">Fees</string>
+  <string name="paymentdetails_destination_label">Enviado para</string>
+  <string name="paymentdetails_fees_label">Taxas</string>
   <string name="paymentdetails_error_label">Error</string>
-  <string name="paymentdetails_closing_desc">Payment for closing channel #%1$s</string>
-  <string name="paymentdetails_no_description">No description</string>
+  <string name="paymentdetails_closing_desc">Pagamento pelo fechamento do canal #%1$s</string>
+  <string name="paymentdetails_no_description">Sem descrição</string>
 
-  <string name="paymentdetails_technicals_button">Show technical data</string>
+  <string name="paymentdetails_technicals_button">Mostrar dados técnicos</string>
 
   <!-- //////////////// payment details: technicals data //////////////// -->
 
-  <string name="paymentdetails_technicals_title">Payment data</string>
+  <string name="paymentdetails_technicals_title">Dados de pagamento</string>
   <string name="paymentdetails_payment_hash_label">Payment Hash</string>
   <string name="paymentdetails_payment_request_label">Payment Request</string>
   <string name="paymentdetails_preimage_label">Preimage</string>
-  <string name="paymentdetails_created_at_label">Created at</string>
-  <string name="paymentdetails_expire_at_label">Expires at</string>
-  <string name="paymentdetails_completed_at_label">Completed at</string>
+  <string name="paymentdetails_created_at_label">Criado em</string>
+  <string name="paymentdetails_expire_at_label">Expira em</string>
+  <string name="paymentdetails_completed_at_label">Concluído em</string>
 
   <!-- //////////////// payment details: technicals data //////////////// -->
 
   <string name="state_wait_confirmed">Funding tx is being confirmed</string>
-  <string name="state_closing">Channel is closing</string>
-  <string name="state_closed">Channel has been closed</string>
+  <string name="state_closing">O canal está sendo fechado</string>
+  <string name="state_closed">O canal foi fechado</string>
   <string name="state_normal">Up and running</string>
   <string name="state_sync">Synchronizing with peer</string>
   <string name="state_offline">Peer is offline</string>
@@ -371,17 +371,17 @@
 
   <!-- //////////////// seed security //////////////// -->
 
-  <string name="seedsec_title">Security</string>
+  <string name="seedsec_title">Segurança</string>
   <string name="seedsec_subtitle">We highly recommend setting a PIN to protect your wallet. If your device supports it, you can use biometric authentication.</string>
   <string name="seedsec_pin_switch">PIN authentication</string>
   <string name="seedsec_biometrics_switch">Biometric authentication</string>
-  <string name="seedsec_change_pin">Change my PIN…</string>
+  <string name="seedsec_change_pin">Alterar PIN…</string>
   <string name="seedsec_biometric_enrollment_error">Biometric enrollment failed. Please try again.</string>
-  <string name="seedsec_pindialog_title_unlock">Please enter your current PIN to proceed</string>
+  <string name="seedsec_pindialog_title_unlock">Insira seu PIN atual para continuar</string>
   <string name="seedsec_pindialog_title_set_new"><![CDATA[Please enter <b>your new PIN</b>]]></string>
   <string name="seedsec_pindialog_title_confirm_new"><![CDATA[Please <b>confirm</b> your new PIN]]></string>
 
-  <string name="seedsec_pin_update_success">PIN successfully updated!</string>
+  <string name="seedsec_pin_update_success">PIN atualizado com sucesso!</string>
   <string name="seedsec_biometric_enabled">Biometric authentication activated</string>
   <string name="seedsec_biometric_disabled">Biometric authentication disabled</string>
 
@@ -389,13 +389,13 @@
   <string name="seedsec_biometric_support_hw_unavailable">Biometric hardware is not available. Try again later.</string>
   <string name="seedsec_biometric_support_none_enrolled">Please enroll biometric first.</string>
 
-  <string name="seedsec_error_wrong_pin">Invalid PIN</string>
-  <string name="seedsec_error_pins_match">PINs do not match. Please try again.</string>
+  <string name="seedsec_error_wrong_pin">PIN inválido</string>
+  <string name="seedsec_error_pins_match">PINs não coincidem. Tente novamente.</string>
   <string name="seedsec_error_generic">There was an error, the wallet has not been encrypted.\n\nPlease try again.</string>
 
   <string name="seedsec_disable_bio_prompt_title">Disable biometric lock</string>
   <string name="seedsec_disable_bio_prompt_desc">You will have to use your PIN code from now</string>
-  <string name="seedsec_disable_bio_prompt_negative">Cancel</string>
+  <string name="seedsec_disable_bio_prompt_negative">Cancelar</string>
 
   <string name="seedsec_bio_prompt_title">Enable biometric lock</string>
   <string name="seedsec_bio_prompt_negative">Cancel</string>
