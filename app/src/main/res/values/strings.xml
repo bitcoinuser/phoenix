@@ -234,9 +234,9 @@
     <br/><br/>
     Forçar fechamento de canais irá lhe custar dinheiro (para cobrir as taxas on-chain) além de fazer com que seus fundos sejam bloqueados por dias. <b>Não desinstale o aplicativo até que seus canais estejam totalmente fechados ou você perderá dinheiro.</b>
     <br/><br/>
-    Funds will eventually be sent to: %1$s
+    Os valores serão eventualmente enviados para: %1$s
     <br/><br/>
-    <b>Do not use this feature if you don\'t fully understand what it does.</b>
+    <b>Não use esse recurso se você não entender completamente o que ele faz.</b>
   ]]></string>
   <string name="closechannels_force_button">Forçar fechamento de canais</string>
   <string name="closechannels_confirm_dialog_message">Tem certeza de que deseja continuar?</string>
@@ -252,14 +252,14 @@
   <string name="listallchannels_node_id">ID do servidor: %1$s</string>
   <string name="listallchannels_no_channels">Você ainda não possui canais.</string>
   <plurals name="listallchannels_channels_header">
-    <item quantity="one">Você tem %1$d channel.</item>
-    <item quantity="other">Você tem %1$d channels.</item>
+    <item quantity="one">Você tem %1$d canal.</item>
+    <item quantity="other">Você tem %1$d canais.</item>
   </plurals>
   <string name="listallchannels_copy">Copiar</string>
   <string name="listallchannels_share_all">Compartilhar todos os canais…</string>
   <string name="listallchannels_share">Compartilhar</string>
   <string name="listallchannels_funding_tx">Tx</string>
-  <string name="listallchannels_funding_tx_desc">See funding transaction</string>
+  <string name="listallchannels_funding_tx_desc">Ver transação inaugural</string>
   <string name="listallchannels_close">Fechar</string>
   <string name="listallchannels_share_subject">Dados dos canais</string>
   <string name="listallchannels_share_title">Compartilhar dados do canal</string>
@@ -279,7 +279,7 @@
   <!-- //////////////// init wallet //////////////// -->
 
   <string name="initwallet_create">Nova carteira</string>
-  <string name="initwallet_restore">Restaurar minha arteirac</string>
+  <string name="initwallet_restore">Restaurar minha carteira</string>
 
   <!-- //////////////// main //////////////////// -->
 
@@ -287,9 +287,9 @@
   <string name="main_alert_network_lost">Você está offline. Verifique suas configurações de rede…</string>
   <string name="main_alert_lightning_connection_lost">Não foi possível acessar a rede Lightning…</string>
   <string name="main_alert_settings_button">Configurações</string>
-  <string name="main_swapin_incoming">+%1$s incoming</string>
+  <string name="main_swapin_incoming">+%1$s entrada</string>
   <string name="main_faq_button">FAQ</string>
-  <string name="main_stores_button">Stores</string>
+  <string name="main_stores_button">Lojas</string>
 
   <!-- //////////////// notifications //////////////////// -->
 
@@ -303,17 +303,17 @@
 
   <!-- //////////////// display seed //////////////// -->
 
-  <string name="displayseed_title">Wallet recovery phrase</string>
+  <string name="displayseed_title">Frase de recuperação da carteira</string>
   <string name="displayseed_authenticate_button">Mostrar seed</string>
-  <string name="displayseed_loading">Unlocking seed…</string>
-  <string name="displayseed_error">Seed could not be read. Please try again.\n\nReason: %1$s</string>
+  <string name="displayseed_loading">Desbloqueando seed…</string>
+  <string name="displayseed_error">A seed não pôde ser lida. Tente novamente.\n\nMotivo: %1$s</string>
   <string name="displayseed_instructions"><![CDATA[
-    This list of words is your wallet backup. Save it somewhere safe (not on this phone)!
+    Esta lista de palavras é o backup da sua carteira. Salve as palavras em um local seguro (não neste telefone)!
     <br /><br />
-    <b>Do not share it with anyone.</b>
-    <b>Do not lose it.</b> If you lose your words list and your phone, you\'ve lost your funds.
+    <b>Não compartilhe com ninguém.</b>
+    <b>Não perca elas.</b> Se você perder sua lista de palavras e seu telefone, perderá seus fundos.
   ]]></string>
-  <string name="displayseed_derivation_path">BIP39 seed with standard BIP84 derivation path</string>
+  <string name="displayseed_derivation_path">Seed BIP39 com caminho de derivação padrão BIP84</string>
   <string name="displayseed_words_td"><![CDATA[<td><font color="rgba(100,100,100,.3)"><small>#%1$d</small></font> <b>%2$s</b></td>]]></string>
   <string name="displayseed_has_saved_seed_checkbox">Eu fiz o backup da minha seed</string>
   <string name="displayseed_has_saved_seed_button">Confirmar</string>
@@ -331,19 +331,19 @@
   <!-- //////////////// payment details //////////////// -->
 
   <string name="paymentdetails_loading">Recuperando detalhes do pagamento…</string>
-  <string name="paymentdetails_error">There was an error when retrieving the details for this payment.\n\nPlease try again.</string>
+  <string name="paymentdetails_error">Ocorreu um erro ao recuperar os detalhes deste pagamento.\n\nTente novamente.</string>
 
-  <string name="paymentdetails_status_sent_successful"><![CDATA[<b>Sent</b> %1$s]]></string>
-  <string name="paymentdetails_status_sent_pending"><![CDATA[<b>Pending…</b>]]></string>
-  <string name="paymentdetails_status_sent_failed"><![CDATA[Payment <b>failed</b>.<br />No money has been sent.]]></string>
+  <string name="paymentdetails_status_sent_successful"><![CDATA[<b>Enviado</b> %1$s]]></string>
+  <string name="paymentdetails_status_sent_pending"><![CDATA[<b>Pendente…</b>]]></string>
+  <string name="paymentdetails_status_sent_failed"><![CDATA[Pagamento <b>falhou</b>.<br />Nenhum dinheiro foi enviado.]]></string>
 
   <string name="paymentdetails_status_received_pending">O pagamento ainda não foi recebido.</string>
-  <string name="paymentdetails_status_received_successful"><![CDATA[<b>Received</b> %1$s]]></string>
+  <string name="paymentdetails_status_received_successful"><![CDATA[<b>Recebido</b> %1$s]]></string>
 
   <string name="paymentdetails_desc_label">Desc.</string>
   <string name="paymentdetails_destination_label">Enviado para</string>
   <string name="paymentdetails_fees_label">Taxas</string>
-  <string name="paymentdetails_error_label">Error</string>
+  <string name="paymentdetails_error_label">Erro</string>
   <string name="paymentdetails_closing_desc">Pagamento pelo fechamento do canal #%1$s</string>
   <string name="paymentdetails_no_description">Sem descrição</string>
 
@@ -352,8 +352,8 @@
   <!-- //////////////// payment details: technicals data //////////////// -->
 
   <string name="paymentdetails_technicals_title">Dados de pagamento</string>
-  <string name="paymentdetails_payment_hash_label">Payment Hash</string>
-  <string name="paymentdetails_payment_request_label">Payment Request</string>
+  <string name="paymentdetails_payment_hash_label">Hash do pagamento</string>
+  <string name="paymentdetails_payment_request_label">Solicitação de pagamento</string>
   <string name="paymentdetails_preimage_label">Preimage</string>
   <string name="paymentdetails_created_at_label">Criado em</string>
   <string name="paymentdetails_expire_at_label">Expira em</string>
