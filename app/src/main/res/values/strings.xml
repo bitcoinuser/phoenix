@@ -259,7 +259,7 @@
   <string name="listallchannels_share_all">Compartilhar todos os canais…</string>
   <string name="listallchannels_share">Compartilhar</string>
   <string name="listallchannels_funding_tx">Tx</string>
-  <string name="listallchannels_funding_tx_desc">Ver transação inaugural</string>
+  <string name="listallchannels_funding_tx_desc">Ver transação de financiamento</string>
   <string name="listallchannels_close">Fechar</string>
   <string name="listallchannels_share_subject">Dados dos canais</string>
   <string name="listallchannels_share_title">Compartilhar dados do canal</string>
@@ -361,13 +361,13 @@
 
   <!-- //////////////// payment details: technicals data //////////////// -->
 
-  <string name="state_wait_confirmed">Funding tx is being confirmed</string>
+  <string name="state_wait_confirmed">A transação de financiamento está sendo confirmada</string>
   <string name="state_closing">O canal está sendo fechado</string>
   <string name="state_closed">O canal foi fechado</string>
-  <string name="state_normal">Up and running</string>
-  <string name="state_sync">Synchronizing with peer</string>
-  <string name="state_offline">Peer is offline</string>
-  <string name="state_shutdown">Shutdown</string>
+  <string name="state_normal">Funcionando</string>
+  <string name="state_sync">Sincronizando com peers</string>
+  <string name="state_offline">O peer está offline</string>
+  <string name="state_shutdown">Desligar</string>
 
   <!-- //////////////// seed security //////////////// -->
 
