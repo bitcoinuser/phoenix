@@ -216,7 +216,7 @@
   <!-- //////////////// close all channels //////////////// -->
 
   <string name="closechannels_title">Fechar canais</string>
-  <string name="closechannels_checking_channels">Checking channels, please hold…</string>
+  <string name="closechannels_checking_channels">Verificando canais, aguarde…</string>
   <string name="closechannels_channels_recap">You currently have %1$d Lightning channels with an aggregated balance of %2$s.</string>
   <string name="closechannels_channels_none">You currently don\'t have any channels that could be emptied.\n\nGo to the \'List channels\' page to see the state of your channels.</string>
   <string name="closechannels_mutual_title">Empty wallet</string>
@@ -267,35 +267,35 @@
 
   <!-- //////////////// channel details //////////////// -->
 
-  <string name="channel_loading">Retrieving channel data…</string>
-  <string name="channel_error">Could not retrieve the details for this channel. Please try again later.</string>
+  <string name="channel_loading">Recuperando dados do canal…</string>
+  <string name="channel_error">Não foi possível recuperar os detalhes deste canal. Tente novamente mais tarde.</string>
 
   <!-- //////////////// menu //////////////// -->
 
-  <string name="menu_settings">Settings</string>
-  <string name="menu_send">Send</string>
-  <string name="menu_receive">Receive</string>
+  <string name="menu_settings">Configurações</string>
+  <string name="menu_send">Enviar</string>
+  <string name="menu_receive">Receber</string>
 
   <!-- //////////////// init wallet //////////////// -->
 
-  <string name="initwallet_create">New Wallet</string>
-  <string name="initwallet_restore">Restore my wallet</string>
+  <string name="initwallet_create">Nova carteira</string>
+  <string name="initwallet_restore">Restaurar minha arteirac</string>
 
   <!-- //////////////// main //////////////////// -->
 
-  <string name="main_alert_electrum_connecting">Connecting to electrum server…</string>
-  <string name="main_alert_network_lost">You are offline. Please check your network settings…</string>
-  <string name="main_alert_lightning_connection_lost">Could not reach the Lightning network…</string>
-  <string name="main_alert_settings_button">Settings</string>
+  <string name="main_alert_electrum_connecting">Conectando ao servidor electrum…</string>
+  <string name="main_alert_network_lost">Você está offline. Verifique suas configurações de rede…</string>
+  <string name="main_alert_lightning_connection_lost">Não foi possível acessar a rede Lightning…</string>
+  <string name="main_alert_settings_button">Configurações</string>
   <string name="main_swapin_incoming">+%1$s incoming</string>
   <string name="main_faq_button">FAQ</string>
   <string name="main_stores_button">Stores</string>
 
   <!-- //////////////// notifications //////////////////// -->
 
-  <string name="inappnotif_set_up_pin">Your wallet is not protected.</string>
-  <string name="inappnotif_set_up_pin_action">Set a PIN</string>
-  <string name="inappnotif_mnemonics_never_seen">Thanks for using Phoenix. Have you made a backup of your wallet?</string>
+  <string name="inappnotif_set_up_pin">Sua carteira não está protegida.</string>
+  <string name="inappnotif_set_up_pin_action">Insira um PIN</string>
+  <string name="inappnotif_mnemonics_never_seen">Obrigado por usar a Phoenix. Você já fez o backup da carteira?</string>
   <string name="inappnotif_mnemonics_never_seen_action">Backup my wallet</string>
   <string name="inappnotif_background_worker_cannot_run">Phoenix needs to be able to run in background from time to time. Make sure your device does not aggressively kill this app for battery savings.</string>
   <string name="inappnotif_upgrade">An update for this app is available.</string>
