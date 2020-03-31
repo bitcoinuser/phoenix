@@ -116,28 +116,28 @@
 
   <!-- //////////////// receive with open channel //////////////// -->
 
-  <string name="receive_with_open_title">Incoming Payment</string>
-  <string name="receive_with_open_help_desc">What\'s this?</string>
+  <string name="receive_with_open_title">Pagamento a receber</string>
+  <string name="receive_with_open_help_desc">O que é isso?</string>
   <string name="receive_with_open_help">In order to receive payments on Lightning, you need to have a channel with enough inbound liquidity.\n\nIf you don\'t have one, Phoenix will automatically create a channel on-the-fly as needed. The setup fee covers the cost of creating the channel and allocating liquidity to it.</string>
-  <string name="receive_with_open_amount_label">You have a pending incoming payment of</string>
+  <string name="receive_with_open_amount_label">Você tem um pagamento pendente de recebimento de</string>
   <string name="receive_with_open_cost"><![CDATA[Accepting this payment requires a setup fee of <b>%1$s</b> (%2$s).]]></string>
-  <string name="receive_with_open_accept">Accept (expires in %1$ss)</string>
-  <string name="receive_with_open_decline">Decline</string>
-  <string name="receive_with_open_expired">This payment has expired!</string>
+  <string name="receive_with_open_accept">Aceitar (expira em %1$ss)</string>
+  <string name="receive_with_open_decline">Recusar</string>
+  <string name="receive_with_open_expired">Este pagamento expirou!</string>
 
   <!-- //////////////// send //////////////// -->
 
-  <string name="send_init_paste">Paste payment request</string>
+  <string name="send_init_paste">Colar solicitação de pagamento</string>
   <string name="send_init_reading">Reading scan…</string>
 
-  <string name="send_balance_prefix">Balance:</string>
-  <string name="send_use_all_balance">Send all</string>
-  <string name="send_loading">Checking payment…</string>
+  <string name="send_balance_prefix">Saldo:</string>
+  <string name="send_use_all_balance">Enviar tudo</string>
+  <string name="send_loading">Verificando pagamento…</string>
   <string name="send_invalid_pr_generic">This payment is not valid. You may have scanned an incorrect invoice.\n\nPlease try again.</string>
-  <string name="send_amount_error">Please enter a valid amount.</string>
-  <string name="send_amount_error_balance">Amount exceeds your balance.</string>
+  <string name="send_amount_error">Insira uma quantia válida.</string>
+  <string name="send_amount_error_balance">O valor excede o seu saldo.</string>
   <string name="send_amount_error_swap_out_too_small">Min. 10000 sat for on-chain payment.</string>
-  <string name="send_destination_label">Send to</string>
+  <string name="send_destination_label">Enviar para</string>
   <string name="send_description_label">Desc.</string>
   <string name="send_error_sending">There was an internal error when trying to send this payment. No money was sent.</string>
   <string name="send_pay_button">Pay</string>
@@ -146,19 +146,19 @@
   <string name="send_swap_required_desc">This is a bitcoin address, the payment will be a swap.</string>
   <string name="send_swap_required_button">Request a swap</string>
   <string name="send_swap_complete_recap_amount">Amount</string>
-  <string name="send_swap_complete_recap_fee">Miner Fee</string>
+  <string name="send_swap_complete_recap_fee">Taxa do Minerador</string>
   <string name="send_swap_complete_recap_total">Total</string>
   <string name="send_swap_complete_cannot_afford">Total exceeds your balance.\n\nLower the amount, or try again later when fees have decreased.</string>
 
   <!-- //////////////// scan //////////////// -->
 
-  <string name="scan_request_camera_access">Grant camera permission</string>
+  <string name="scan_request_camera_access">Permitir uso da câmera</string>
   <string name="scan_instructions">Place a payment request QR code\ninside the rectangle to scan it</string>
   <string name="scan_state_reading">Reading payment request</string>
 
   <string name="scan_error_default">This is not a valid payment request.\n\nPlease try again.</string>
   <string name="scan_error_expired">Payment has expired.</string>
-  <string name="scan_error_pay_to_self">You cannot pay yourself.</string>
+  <string name="scan_error_pay_to_self">Você não pode pagar a si mesmo.</string>
   <string name="scan_error_invalid_chain">This invoice does not use the same blockchain as your wallet.</string>
   <string name="scan_error_lnurl_unsupported">This LNURL is not supported yet!</string>
 
@@ -179,31 +179,31 @@
   <string name="utils_pretty_amount_with_unit"><![CDATA[%1$s%2$s<small>%3$s<small> %4$s]]></string>
 
   <string name="utils_ok">Ok</string>
-  <string name="utils_proceed">Proceed</string>
-  <string name="utils_cancel">Cancel</string>
-  <string name="utils_date_just_now">just now</string>
+  <string name="utils_proceed">Continuar</string>
+  <string name="utils_cancel">Cancelar</string>
+  <string name="utils_date_just_now">Somente desta vez</string>
   <string name="utils_unknown">N/A</string>
-  <string name="utils_copied">Copied to clipboard!</string>
-  <string name="btn_back">Go back</string>
+  <string name="utils_copied">Copiado!</string>
+  <string name="btn_back">Voltar</string>
   <string name="btn_ok">OK</string>
-  <string name="btn_confirm">Confirm</string>
-  <string name="btn_cancel">Cancel</string>
-  <string name="btn_close">Close</string>
+  <string name="btn_confirm">Confirmar</string>
+  <string name="btn_cancel">Cancelar</string>
+  <string name="btn_close">Fechar</string>
 
   <!-- //////////////// settings //////////////// -->
 
-  <string name="settings_general_title">General</string>
+  <string name="settings_general_title">Geral</string>
   <string name="settings_display_prefs">Display</string>
   <string name="settings_security_title">Security</string>
   <string name="settings_display_seed">Recovery phrase</string>
   <string name="settings_seed_security">App access settings</string>
-  <string name="settings_advanced_title">Advanced</string>
+  <string name="settings_advanced_title">Avancçado</string>
   <string name="settings_fees">Fees Settings</string>
   <string name="settings_list_channels">Channels list</string>
   <string name="settings_logs">Logs</string>
   <string name="settings_electrum">Electrum server</string>
-  <string name="settings_mutual_close">Close all channels</string>
-  <string name="settings_force_close">Danger zone</string>
+  <string name="settings_mutual_close">Fechar todos os canais</string>
+  <string name="settings_force_close">Zona de perigo</string>
 
   <!-- //////////////// notification - watcher //////////////// -->
 
@@ -215,7 +215,7 @@
 
   <!-- //////////////// close all channels //////////////// -->
 
-  <string name="closechannels_title">Close channels</string>
+  <string name="closechannels_title">Fechar canais</string>
   <string name="closechannels_checking_channels">Checking channels, please hold…</string>
   <string name="closechannels_channels_recap">You currently have %1$d Lightning channels with an aggregated balance of %2$s.</string>
   <string name="closechannels_channels_none">You currently don\'t have any channels that could be emptied.\n\nGo to the \'List channels\' page to see the state of your channels.</string>
@@ -224,9 +224,9 @@
     Use this page to empty your wallet to a Bitcoin address.
   ]]></string>
   <string name="closechannels_mutual_input_instructions">Funds can be sent to a Bitcoin wallet. Make sure that the address is correct before sending.</string>
-  <string name="closechannels_mutual_input_hint">Enter Bitcoin address</string>
-  <string name="closechannels_mutual_button">Empty my wallet</string>
-  <string name="closechannels_force_title">Force close</string>
+  <string name="closechannels_mutual_input_hint">Insira um endereço Bitcoin</string>
+  <string name="closechannels_mutual_button">Esvaziar minha carteira</string>
+  <string name="closechannels_force_title">Forçar fechamento</string>
   <string name="closechannels_force_instructions"><![CDATA[
     Force close allows you to unilaterally close your channels.
     <br/><br/>
@@ -238,32 +238,32 @@
     <br/><br/>
     <b>Do not use this feature if you don\'t fully understand what it does.</b>
   ]]></string>
-  <string name="closechannels_force_button">Force close channels</string>
-  <string name="closechannels_confirm_dialog_message">Are you sure you want to proceed?</string>
-  <string name="closechannels_message_error">There was a problem. Please try again later.</string>
-  <string name="closechannels_message_done">Funds sent.</string>
-  <string name="closechannels_message_in_progress">Please wait…</string>
+  <string name="closechannels_force_button">Forçar fechamento de canais</string>
+  <string name="closechannels_confirm_dialog_message">Tem certeza de que deseja continuar?</string>
+  <string name="closechannels_message_error">Ocorreu um problema. Tente novamente.</string>
+  <string name="closechannels_message_done">Bitcoins enviados.</string>
+  <string name="closechannels_message_in_progress">Aguarde…</string>
 
   <!-- //////////////// list all channels //////////////// -->
 
-  <string name="listallchannels_title">Channels List</string>
-  <string name="listallchannels_in_progress">Please hold…</string>
-  <string name="listallchannels_error">There was an error when retrieving the list of channels. Please try again.</string>
-  <string name="listallchannels_node_id">Node id: %1$s</string>
-  <string name="listallchannels_no_channels">You don\'t have any channels yet.</string>
+  <string name="listallchannels_title">Lista de Canais</string>
+  <string name="listallchannels_in_progress">Aguarde…</string>
+  <string name="listallchannels_error">Ocorreu um erro ao recuperar a lista de canais. Tente novamente.</string>
+  <string name="listallchannels_node_id">ID do servidor: %1$s</string>
+  <string name="listallchannels_no_channels">Você ainda não possui canais.</string>
   <plurals name="listallchannels_channels_header">
-    <item quantity="one">You have %1$d channel.</item>
-    <item quantity="other">You have %1$d channels.</item>
+    <item quantity="one">Você tem %1$d channel.</item>
+    <item quantity="other">Você tem %1$d channels.</item>
   </plurals>
-  <string name="listallchannels_copy">Copy</string>
-  <string name="listallchannels_share_all">Share all channels…</string>
-  <string name="listallchannels_share">Share</string>
+  <string name="listallchannels_copy">Copiar</string>
+  <string name="listallchannels_share_all">Compartilhar todos os canais…</string>
+  <string name="listallchannels_share">Compartilhar</string>
   <string name="listallchannels_funding_tx">Tx</string>
   <string name="listallchannels_funding_tx_desc">See funding transaction</string>
-  <string name="listallchannels_close">Close</string>
-  <string name="listallchannels_share_subject">Channels data</string>
-  <string name="listallchannels_share_title">Share channel data</string>
-  <string name="listallchannels_serialization_error">Could not retrieve channel data</string>
+  <string name="listallchannels_close">Fechar</string>
+  <string name="listallchannels_share_subject">Dados dos canais</string>
+  <string name="listallchannels_share_title">Compartilhar dados do canal</string>
+  <string name="listallchannels_serialization_error">Não foi possível recuperar os dados do canal>
 
   <!-- //////////////// channel details //////////////// -->
 
