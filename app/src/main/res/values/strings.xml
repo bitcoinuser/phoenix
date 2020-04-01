@@ -444,9 +444,9 @@
 
   <string name="electrum_block_height_label">Altura do bloco</string>
   <string name="electrum_tip_label">Tip timestamp</string>
-  <string name="electrum_fee_rate_label">Fee rate</string>
-  <string name="electrum_xpub_label">Master public key</string>
-  <string name="electrum_xpub_value">%1$s\n\nPath: %2$s</string>
+  <string name="electrum_fee_rate_label">Taxa usada</string>
+  <string name="electrum_xpub_label">Chave pública Master</string>
+  <string name="electrum_xpub_value">%1$s\n\nCaminho: %2$s</string>
   <string name="electrum_fee_rate">%1$s sat/byte</string>
   <string name="electrum_connection_label">Servidor</string>
   <string name="electrum_connecting">Estabelecendo conexão…</string>
