@@ -25,7 +25,7 @@
   <!-- //////////////// init wallet / automated wallet creation //////////////// -->
 
   <string name="autocreate_generating">Criando sua carteira…</string>
-  <string name="autocreate_error">Não foi possível criar sua carteira.\nReason: %1$s</string>
+  <string name="autocreate_error">Não foi possível criar sua carteira.\nMotivo: %1$s</string>
 
   <!-- //////////////// init wallet / automated wallet creation //////////////// -->
 
