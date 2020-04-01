@@ -128,7 +128,7 @@
   <!-- //////////////// send //////////////// -->
 
   <string name="send_init_paste">Colar solicitação de pagamento</string>
-  <string name="send_init_reading">Reading scan…</string>
+  <string name="send_init_reading">Lendo…</string>
 
   <string name="send_balance_prefix">Saldo:</string>
   <string name="send_use_all_balance">Enviar tudo</string>
