@@ -153,7 +153,7 @@
   <!-- //////////////// scan //////////////// -->
 
   <string name="scan_request_camera_access">Permitir uso da câmera</string>
-  <string name="scan_instructions">Coloque um código QR de cobrança \ndentro do retângulo para realizar o pagamento</string>
+  <string name="scan_instructions">Ler código QR com solicitação de pagamento ou endereço bitcoin para realizar o pagamento</string>
   <string name="scan_state_reading">Lendo solicitação de pagamento</string>
 
   <string name="scan_error_default">Esta não é uma solicitação de pagamento válida.\n\nTente novamente.</string>
@@ -193,7 +193,7 @@
   <!-- //////////////// settings //////////////// -->
 
   <string name="settings_general_title">Geral</string>
-  <string name="settings_display_prefs">Interface</string>
+  <string name="settings_display_prefs">Tela</string>
   <string name="settings_security_title">Segurança</string>
   <string name="settings_display_seed">Frase de recuperação</string>
   <string name="settings_seed_security">Configurações de acesso</string>
@@ -202,7 +202,7 @@
   <string name="settings_list_channels">Lista de canais</string>
   <string name="settings_logs">Logs</string>
   <string name="settings_electrum">Servidor Electrum</string>
-  <string name="settings_mutual_close">Fechar todos os canais</string>
+  <string name="settings_mutual_close">Fechar canais</string>
   <string name="settings_force_close">Zona de perigo</string>
 
   <!-- //////////////// notification - watcher //////////////// -->
