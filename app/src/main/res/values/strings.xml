@@ -321,7 +321,7 @@
   <!-- //////////////// logs settings //////////////// -->
 
   <string name="logs_title">Logs do aplicativo</string>
-  <string name="logs_subtitle">You can extract and share the application logs from this page.</string>
+  <string name="logs_subtitle">Você pode extrair e compartilhar os logs do aplicativo por esta página.</string>
   <string name="logs_view_button">Ver logs…</string>
   <string name="logs_view_with">Ver logs com…</string>
   <string name="logs_share_button">Compartilhar logs…</string>
@@ -372,32 +372,32 @@
   <!-- //////////////// seed security //////////////// -->
 
   <string name="seedsec_title">Segurança</string>
-  <string name="seedsec_subtitle">We highly recommend setting a PIN to protect your wallet. If your device supports it, you can use biometric authentication.</string>
-  <string name="seedsec_pin_switch">PIN authentication</string>
-  <string name="seedsec_biometrics_switch">Biometric authentication</string>
+  <string name="seedsec_subtitle">É altamente recomendável definir um PIN para proteger sua carteira. Se o seu dispositivo suportar, você pode usar autenticação biométrica.</string>
+  <string name="seedsec_pin_switch">Autenticação por PIN</string>
+  <string name="seedsec_biometrics_switch">Autenticação biométrica</string>
   <string name="seedsec_change_pin">Alterar PIN…</string>
-  <string name="seedsec_biometric_enrollment_error">Biometric enrollment failed. Please try again.</string>
+  <string name="seedsec_biometric_enrollment_error">Falha no registro biométrico. Tente novamente.</string>
   <string name="seedsec_pindialog_title_unlock">Insira seu PIN atual para continuar</string>
-  <string name="seedsec_pindialog_title_set_new"><![CDATA[Please enter <b>your new PIN</b>]]></string>
-  <string name="seedsec_pindialog_title_confirm_new"><![CDATA[Please <b>confirm</b> your new PIN]]></string>
+  <string name="seedsec_pindialog_title_set_new"><![CDATA[Insira <b>seu novo PIN</b>]]></string>
+  <string name="seedsec_pindialog_title_confirm_new"><![CDATA[Favor <b>confirmar</b> seu novo PIN]]></string>
 
   <string name="seedsec_pin_update_success">PIN atualizado com sucesso!</string>
-  <string name="seedsec_biometric_enabled">Biometric authentication activated</string>
-  <string name="seedsec_biometric_disabled">Biometric authentication disabled</string>
+  <string name="seedsec_biometric_enabled">Autenticação biométrica ativada</string>
+  <string name="seedsec_biometric_disabled">Autenticação biométrica desativada</string>
 
-  <string name="seedsec_biometric_support_no_hw">Your device does not support biometric authentication.</string>
-  <string name="seedsec_biometric_support_hw_unavailable">Biometric hardware is not available. Try again later.</string>
-  <string name="seedsec_biometric_support_none_enrolled">Please enroll biometric first.</string>
+  <string name="seedsec_biometric_support_no_hw">O seu dispositivo não suporta autenticação biométrica.</string>
+  <string name="seedsec_biometric_support_hw_unavailable">O hardware de biometria não está disponível. Tente novamente mais tarde.</string>
+  <string name="seedsec_biometric_support_none_enrolled">Primeiro registre a biometria.</string>
 
   <string name="seedsec_error_wrong_pin">PIN inválido</string>
   <string name="seedsec_error_pins_match">PINs não coincidem. Tente novamente.</string>
-  <string name="seedsec_error_generic">There was an error, the wallet has not been encrypted.\n\nPlease try again.</string>
+  <string name="seedsec_error_generic">Ocorreu um erro, a carteira não foi criptografada.\n\nTente novamente.</string>
 
-  <string name="seedsec_disable_bio_prompt_title">Disable biometric lock</string>
-  <string name="seedsec_disable_bio_prompt_desc">You will have to use your PIN code from now</string>
+  <string name="seedsec_disable_bio_prompt_title">Desativar bloqueio biométrico</string>
+  <string name="seedsec_disable_bio_prompt_desc">Você precisará usar seu código PIN a partir de agora</string>
   <string name="seedsec_disable_bio_prompt_negative">Cancelar</string>
 
-  <string name="seedsec_bio_prompt_title">Enable biometric lock</string>
+  <string name="seedsec_bio_prompt_title">Ativar bloqueio biométrico</string>
   <string name="seedsec_bio_prompt_negative">Cancelar</string>
 
   <!-- //////////////// ln url login //////////////// -->
