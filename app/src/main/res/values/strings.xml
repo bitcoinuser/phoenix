@@ -153,7 +153,7 @@
   <!-- //////////////// scan //////////////// -->
 
   <string name="scan_request_camera_access">Permitir uso da câmera</string>
-  <string name="scan_instructions">Place a payment request QR code\ninside the rectangle to scan it</string>
+  <string name="scan_instructions">Coloque um código QR de cobrança \ndentro do retângulo para realizar o pagamento</string>
   <string name="scan_state_reading">Lendo solicitação de pagamento</string>
 
   <string name="scan_error_default">Esta não é uma solicitação de pagamento válida.\n\nTente novamente.</string>
