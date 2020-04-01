@@ -460,8 +460,8 @@
 
   <!-- //////////////// fees settings //////////////// -->
 
-  <string name="fees_settings_title" translatable="false">Fees Settings</string>
-  <string name="fees_settings_subtitle" translatable="false">These are the fees used for sending or receiving money with Phoenix.</string>
+  <string name="fees_settings_title" translatable="false">Configurações de taxas</string>
+  <string name="fees_settings_subtitle" translatable="false">Essas são as taxas usadas para enviar ou receber dinheiro com a Phoenix.</string>
 
   <string name="fees_settings_trampoline_title" translatable="false">Pagamento lightning</string>
   <string name="fees_settings_trampoline_desc" translatable="false">O aplicativo tentará usar a taxa mais barata possível.</string>
