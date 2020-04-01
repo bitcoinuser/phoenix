@@ -19,7 +19,7 @@
 
   <!-- //////////////// system notification channels //////////////// -->
 
-  <string name="notification_channels_watcher_title">Observador de canais</string>
+  <string name="notification_channels_watcher_title">Observador de segundo plano</string>
   <string name="notification_channels_watcher_desc">Alerta você em caso de necessidade de iniciar o aplicativo. Deve ser prioridade.</string>
 
   <!-- //////////////// init wallet / automated wallet creation //////////////// -->
