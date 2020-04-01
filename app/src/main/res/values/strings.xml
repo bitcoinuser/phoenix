@@ -402,31 +402,31 @@
 
   <!-- //////////////// ln url login //////////////// -->
 
-  <string name="lnurl_login_instructions" translatable="false">Log in to %1$s</string>
-  <string name="lnurl_login_button" translatable="false">Log in</string>
-  <string name="lnurl_login_in_progress" translatable="false">Logging in, please wait…</string>
+  <string name="lnurl_login_instructions" translatable="false">Logar em %1$s</string>
+  <string name="lnurl_login_button" translatable="false">Logar</string>
+  <string name="lnurl_login_in_progress" translatable="false">Fazendo login, por favor aguarde…</string>
 
   <!-- //////////////// ln url pay //////////////// -->
 
   <string name="lnurl_pay_wait" translatable="false">Recuperando detalhes de pagamento…</string>
-  <string name="lnurl_pay_error_remote" translatable="false">Could not get a valid invoice from %1$s.\n\nYou may want to try again later.</string>
-  <string name="lnurl_pay_error_remote_code" translatable="false">Could not get a valid invoice from %1$s (code %2$s).\n\nYou may want to try again later.</string>
-  <string name="lnurl_pay_error_missing_callback" translatable="false">There was an error when handling this invoice. Please try again later.</string>
+  <string name="lnurl_pay_error_remote" translatable="false">Não foi possível obter uma cobrança válida de %1$s.\n\nVocê pode tentar novamente mais tarde.</string>
+  <string name="lnurl_pay_error_remote_code" translatable="false">Não foi possível obter uma cobrança válida de %1$s (code %2$s).\n\nVocê pode tentar novamente mais tarde.</string>
+  <string name="lnurl_pay_error_missing_callback" translatable="false">There was an error when handling this invoice. Tente novamente mais tarde.</string>
 
   <!-- //////////////// ln url withdraw //////////////// -->
 
-  <string name="lnurl_withdraw_amount_label">Amount to receive</string>
-  <string name="lnurl_withdraw_description_label">Details</string>
+  <string name="lnurl_withdraw_amount_label">Valor a receber</string>
+  <string name="lnurl_withdraw_description_label">Detalhes</string>
   <string name="lnurl_withdraw_service_host_label"><![CDATA[Withdraw funds from<br/><b>%1$s</b>.]]></string>
-  <string name="lnurl_withdraw_confirm_button">Withdraw</string>
-  <string name="lnurl_withdraw_wait">Requesting funds…</string>
-  <string name="lnurl_withdraw_success">Please hold while %1$s is sending funds.\n\nKeep the app online.</string>
-  <string name="lnurl_withdraw_error_internal">Could not process this withdrawal request. Please try again.</string>
-  <string name="lnurl_withdraw_error_invalid">This withdrawal request is invalid. Please try again.</string>
+  <string name="lnurl_withdraw_confirm_button">Retirar</string>
+  <string name="lnurl_withdraw_wait">Solicitando valores…</string>
+  <string name="lnurl_withdraw_success">Aguarde enquanto %1$s está enviando os valores.\n\nMantenha o aplicativo online.</string>
+  <string name="lnurl_withdraw_error_internal">Não foi possível processar esta retirada. Tente novamente.</string>
+  <string name="lnurl_withdraw_error_invalid">Esta solicitação de retirada é inválida. Tente novamente.</string>
   <string name="lnurl_withdraw_error_amount">A quantia é inválida.</string>
-  <string name="lnurl_withdraw_error_amount_min">Amount must be at least %1$s.</string>
-  <string name="lnurl_withdraw_error_amount_max">Amount cannot exceed %1$s.</string>
-  <string name="lnurl_withdraw_error_remote">%1$s responded with an error: %2$s.\n\nTry again later, or contact their support.</string>
+  <string name="lnurl_withdraw_error_amount_min">O valor não pode ser menor que %1$s.</string>
+  <string name="lnurl_withdraw_error_amount_max">O valor não pode ser maior que %1$s.</string>
+  <string name="lnurl_withdraw_error_remote">%1$s respondeu com um erro: %2$s.\n\nTente novamente mais tarde, ou entre em contato com o suporte.</string>
   <string name="lnurl_withdraw_error_remote_invalid_response">Dado inválido</string>
 
   <!-- //////////////// display preferences //////////////// -->
