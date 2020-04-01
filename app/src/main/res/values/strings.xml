@@ -417,7 +417,7 @@
 
   <string name="lnurl_withdraw_amount_label">Valor a receber</string>
   <string name="lnurl_withdraw_description_label">Detalhes</string>
-  <string name="lnurl_withdraw_service_host_label"><![CDATA[Withdraw funds from<br/><b>%1$s</b>.]]></string>
+  <string name="lnurl_withdraw_service_host_label"><![CDATA[Retirar fundos de<br/><b>%1$s</b>.]]></string>
   <string name="lnurl_withdraw_confirm_button">Retirar</string>
   <string name="lnurl_withdraw_wait">Solicitando valores…</string>
   <string name="lnurl_withdraw_success">Aguarde enquanto %1$s está enviando os valores.\n\nMantenha o aplicativo online.</string>
