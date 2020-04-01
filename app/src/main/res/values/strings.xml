@@ -431,32 +431,32 @@
 
   <!-- //////////////// display preferences //////////////// -->
 
-  <string name="prefs_display_title">Display options</string>
-  <string name="prefs_display_coin_label">Bitcoin unit</string>
-  <string name="prefs_display_fiat_label">Fiat currency</string>
-  <string name="prefs_display_theme_label">Application theme</string>
+  <string name="prefs_display_title">Opções de exibição</string>
+  <string name="prefs_display_coin_label">Unidade de Bitcoin</string>
+  <string name="prefs_display_fiat_label">Moeda fiduciária</string>
+  <string name="prefs_display_theme_label">Tema</string>
 
   <!-- //////////////// electrum server //////////////// -->
 
   <string name="electrum_title">Servidor Electrum</string>
-  <string name="electrum_subtitle">By default Phoenix connects to random electrum servers in order to access the Bitcoin blockchain. You can also choose to connect to your own Electrum server.</string>
+  <string name="electrum_subtitle">Por padrão, para acessar o blockchain do Bitcoin, a Phoenix se conecta a servidores aleatórios da electrum. Você pode optar por se conectar ao seu próprio servidor Electrum.</string>
   <string name="electrum_change_button">Definir servidor…</string>
 
-  <string name="electrum_block_height_label">Block height</string>
+  <string name="electrum_block_height_label">Altura do bloco</string>
   <string name="electrum_tip_label">Tip timestamp</string>
   <string name="electrum_fee_rate_label">Fee rate</string>
   <string name="electrum_xpub_label">Master public key</string>
   <string name="electrum_xpub_value">%1$s\n\nPath: %2$s</string>
   <string name="electrum_fee_rate">%1$s sat/byte</string>
-  <string name="electrum_connection_label">Server</string>
+  <string name="electrum_connection_label">Servidor</string>
   <string name="electrum_connecting">Estabelecendo conexão…</string>
-  <string name="electrum_connecting_to_custom"><![CDATA[Establishing connection with <b>%1$s…</b>]]></string>
-  <string name="electrum_connected"><![CDATA[Connected to: <b>%1$s</b>]]></string>
+  <string name="electrum_connecting_to_custom"><![CDATA[EEstabelecendo conexão com <b>%1$s…</b>]]></string>
+  <string name="electrum_connected"><![CDATA[Conectado a: <b>%1$s</b>]]></string>
 
-  <string name="electrum_dialog_checkbox">Use a custom Electrum server</string>
-  <string name="electrum_dialog_ssl">Server must have a valid certificate</string>
-  <string name="electrum_dialog_input">Server address (host:port).</string>
-  <string name="electrum_empty_custom_address">Please enter an electrum server address</string>
+  <string name="electrum_dialog_checkbox">Usar um servidor Electrum personalizado</string>
+  <string name="electrum_dialog_ssl">O servidor deve possuir um certificado válido</string>
+  <string name="electrum_dialog_input">Endereço do servidor (host:port).</string>
+  <string name="electrum_empty_custom_address">nsira um endereço de servidor electrum</string>
 
   <!-- //////////////// fees settings //////////////// -->
 
@@ -473,7 +473,7 @@
 
   <!-- ////////////// virtual keyboard hints //////////////// -->
 
-  <string name="key_space_desc">Add whitespace</string>
-  <string name="key_delete_desc">Delete last character</string>
+  <string name="key_space_desc">Adicionar espaço em branco</string>
+  <string name="key_delete_desc">Excluir último caractere</string>
 
 </resources>
