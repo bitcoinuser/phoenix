@@ -411,7 +411,7 @@
   <string name="lnurl_pay_wait" translatable="false">Recuperando detalhes de pagamento…</string>
   <string name="lnurl_pay_error_remote" translatable="false">Não foi possível obter uma cobrança válida de %1$s.\n\nVocê pode tentar novamente mais tarde.</string>
   <string name="lnurl_pay_error_remote_code" translatable="false">Não foi possível obter uma cobrança válida de %1$s (code %2$s).\n\nVocê pode tentar novamente mais tarde.</string>
-  <string name="lnurl_pay_error_missing_callback" translatable="false">There was an error when handling this invoice. Tente novamente mais tarde.</string>
+  <string name="lnurl_pay_error_missing_callback" translatable="false">Ocorreu um erro ao processar esta cobrança. Tente novamente mais tarde.</string>
 
   <!-- //////////////// ln url withdraw //////////////// -->
 
