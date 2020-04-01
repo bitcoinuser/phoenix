@@ -450,7 +450,7 @@
   <string name="electrum_fee_rate">%1$s sat/byte</string>
   <string name="electrum_connection_label">Servidor</string>
   <string name="electrum_connecting">Estabelecendo conexão…</string>
-  <string name="electrum_connecting_to_custom"><![CDATA[EEstabelecendo conexão com <b>%1$s…</b>]]></string>
+  <string name="electrum_connecting_to_custom"><![CDATA[Estabelecendo conexão com <b>%1$s…</b>]]></string>
   <string name="electrum_connected"><![CDATA[Conectado a: <b>%1$s</b>]]></string>
 
   <string name="electrum_dialog_checkbox">Usar um servidor Electrum personalizado</string>
