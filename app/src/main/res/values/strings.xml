@@ -194,9 +194,9 @@
 
   <string name="settings_general_title">Geral</string>
   <string name="settings_display_prefs">Display</string>
-  <string name="settings_security_title">Security</string>
-  <string name="settings_display_seed">Recovery phrase</string>
-  <string name="settings_seed_security">App access settings</string>
+  <string name="settings_security_title">Segurança</string>
+  <string name="settings_display_seed">Frase de recuperação</string>
+  <string name="settings_seed_security">Configurações de acesso</string>
   <string name="settings_advanced_title">Avançado</string>
   <string name="settings_fees">Configurações de taxas</string>
   <string name="settings_list_channels">Lista de canais</string>
