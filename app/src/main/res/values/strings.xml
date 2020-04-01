@@ -193,7 +193,7 @@
   <!-- //////////////// settings //////////////// -->
 
   <string name="settings_general_title">Geral</string>
-  <string name="settings_display_prefs">Display</string>
+  <string name="settings_display_prefs">Tela</string>
   <string name="settings_security_title">Segurança</string>
   <string name="settings_display_seed">Frase de recuperação</string>
   <string name="settings_seed_security">Configurações de acesso</string>
